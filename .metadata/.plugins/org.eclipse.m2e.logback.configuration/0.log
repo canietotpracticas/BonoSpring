@@ -1,0 +1,493 @@
+2019-03-23 15:33:34,853 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong:SpringBatchExample:1.0-SNAPSHOT @ /home/carlos/workspace/PruebaGSS/PruebaGSS/pom.xml.
+2019-03-23 15:33:36,225 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PruebaGSS/src/main/java
+2019-03-23 15:33:36,226 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PruebaGSS/src/main/resources
+2019-03-23 15:33:36,228 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PruebaGSS/src/test/java
+2019-03-23 15:33:36,477 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2019-03-23 15:33:38,766 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:33:38,831 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-23 15:33:38,868 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:33:38,885 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 15:34:50,301 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:34:50,307 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-23 15:34:50,310 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:34:50,311 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 15:35:04,126 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:35:04,128 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-23 15:35:04,131 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:35:04,132 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 15:35:08,895 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:35:08,896 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 15:35:08,898 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:35:08,899 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 15:37:58,748 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:37:58,750 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 15:37:58,752 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:37:58,753 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 15:38:13,113 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:38:13,114 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 15:38:13,118 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:38:13,118 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 15:40:31,464 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:40:31,465 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 15:40:31,467 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:40:31,468 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 15:40:35,886 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-23 15:40:35,887 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-23 15:40:39,116 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:40:39,117 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 15:40:39,121 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:40:39,122 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 15:46:24,670 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:46:24,677 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-23 15:46:24,680 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:46:24,681 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 15:48:47,152 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:48:47,154 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-23 15:48:47,156 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:48:47,157 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 15:51:20,938 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:51:20,939 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 15:51:20,941 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:51:20,942 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 15:51:22,005 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:51:22,008 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 15:51:22,009 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:51:22,010 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 15:51:28,580 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-23 15:51:28,581 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-23 15:51:31,751 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:51:31,751 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 15:51:31,754 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:51:31,754 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 15:56:23,450 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:56:23,451 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-23 15:56:23,453 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:56:23,453 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 15:57:24,686 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-23 15:57:24,686 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-03-23 15:57:26,648 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:57:26,649 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-23 15:57:26,764 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:57:26,765 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 15:57:30,809 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-23 15:57:30,810 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-23 15:57:35,320 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:57:35,322 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-23 15:57:35,326 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 15:57:35,327 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 16:06:36,175 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:06:36,175 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 16:06:36,178 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:06:36,178 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 16:06:42,488 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-23 16:06:42,488 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-03-23 16:06:44,685 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:06:44,686 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-23 16:06:44,690 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:06:44,690 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 16:06:48,778 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-23 16:06:48,779 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-23 16:06:52,683 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:06:52,685 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-23 16:06:52,694 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:06:52,694 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 16:07:50,361 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:07:50,362 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 16:07:50,363 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:07:50,364 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 16:07:58,319 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-23 16:07:58,320 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-23 16:08:01,545 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:08:01,546 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 16:08:01,547 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:08:01,547 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 16:22:41,631 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:22:41,632 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-23 16:22:41,635 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:22:41,636 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 16:22:59,703 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:22:59,704 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-23 16:22:59,708 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:22:59,708 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 16:23:43,194 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:23:43,195 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-23 16:23:43,196 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:23:43,197 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 16:26:03,921 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:26:03,922 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 16:26:03,924 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:26:03,925 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 16:26:15,519 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-23 16:26:15,519 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-23 16:26:18,463 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:26:18,464 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 16:26:18,465 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:26:18,466 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 16:28:33,763 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:28:33,764 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-23 16:28:33,765 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:28:33,766 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 16:28:46,733 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:28:46,734 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 16:28:46,735 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:28:46,736 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 16:31:31,207 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:31:31,208 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 16:31:31,211 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:31:31,212 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 16:31:38,901 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-23 16:31:38,901 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-23 16:31:42,103 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:31:42,104 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 16:31:42,105 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:31:42,105 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 16:32:18,121 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:32:18,122 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 16:32:18,124 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:32:18,124 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 16:32:26,222 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-23 16:32:26,222 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-03-23 16:32:28,278 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:32:28,279 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-23 16:32:28,281 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:32:28,281 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 16:32:33,614 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-23 16:32:33,614 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-23 16:32:37,292 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:32:37,293 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-23 16:32:37,294 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:32:37,295 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 16:43:56,247 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:43:56,248 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 16:43:56,250 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:43:56,250 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 16:44:48,628 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:44:48,628 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 16:44:48,631 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:44:48,631 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 16:44:57,111 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-23 16:44:57,111 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-23 16:45:00,418 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:45:00,418 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 16:45:00,422 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:45:00,422 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 16:46:02,803 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:46:02,804 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 16:46:02,806 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:46:02,807 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 16:46:18,707 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-23 16:46:18,707 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-03-23 16:46:20,869 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:46:20,870 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-23 16:46:20,874 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:46:20,875 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-23 16:46:24,546 [Worker-44] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-23 16:46:24,546 [Worker-44] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-23 16:46:28,886 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:46:28,887 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-23 16:46:28,888 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 16:46:28,888 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 03:28:54,228 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:28:54,283 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 03:28:54,323 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:28:54,323 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 03:29:00,329 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-27 03:29:00,331 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-03-27 03:29:02,745 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:29:02,749 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 03:29:02,778 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:29:02,778 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 03:29:14,512 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-27 03:29:14,512 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-27 03:29:20,929 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:29:20,931 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 03:29:20,932 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:29:20,933 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 03:34:53,445 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:34:53,448 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 03:34:53,452 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:34:53,452 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 03:35:05,321 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-27 03:35:05,321 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-03-27 03:35:07,586 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:35:07,587 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 03:35:07,590 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:35:07,591 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 03:35:10,959 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-27 03:35:10,959 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-27 03:35:15,604 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:35:15,605 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 03:35:15,608 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:35:15,608 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 03:37:23,828 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:37:23,829 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 03:37:23,830 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:37:23,831 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 03:37:29,157 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-27 03:37:29,158 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-03-27 03:37:31,281 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:37:31,282 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 03:37:31,287 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:37:31,289 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 03:37:36,404 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-27 03:37:36,404 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-27 03:37:40,627 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:37:40,628 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 03:37:40,630 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:37:40,630 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 03:38:34,462 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:38:34,463 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 03:38:34,464 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:38:34,465 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 03:39:01,938 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:39:01,939 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 03:39:01,941 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:39:01,941 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 03:47:32,231 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:47:32,231 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 03:47:32,235 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:47:32,235 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 03:48:33,434 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:48:33,435 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 03:48:33,439 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:48:33,440 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 03:53:59,334 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong:SpringBatchExample:1.0-SNAPSHOT @ /home/carlos/workspace/PruebaGSS/PruebaGSS/pom.xml.
+2019-03-27 03:53:59,945 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:53:59,946 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 03:53:59,951 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:53:59,952 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 03:54:03,740 [Worker-40] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-27 03:54:03,740 [Worker-40] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-03-27 03:54:06,831 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:54:06,832 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 03:54:06,867 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:54:06,867 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 03:54:09,758 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:54:09,759 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 03:54:09,763 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:54:09,764 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 03:54:19,952 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-27 03:54:19,952 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-27 03:54:24,190 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:54:24,191 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 03:54:24,193 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:54:24,194 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 03:55:50,255 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:55:50,256 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 03:55:50,258 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:55:50,259 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 03:59:00,765 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong:SpringBatchExample:1.0-SNAPSHOT @ /home/carlos/workspace/PruebaGSS/PruebaGSS/pom.xml.
+2019-03-27 03:59:02,152 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/batch/spring-batch-core/2.2.6.RELEASE/spring-batch-core-2.2.6.RELEASE.pom
+2019-03-27 03:59:02,326 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/batch/spring-batch-core/2.2.6.RELEASE/spring-batch-core-2.2.6.RELEASE.pom
+2019-03-27 03:59:02,453 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/batch/spring-batch-parent/2.2.6.RELEASE/spring-batch-parent-2.2.6.RELEASE.pom
+2019-03-27 03:59:02,556 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/batch/spring-batch-parent/2.2.6.RELEASE/spring-batch-parent-2.2.6.RELEASE.pom
+2019-03-27 03:59:02,708 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/batch/spring-batch-infrastructure/2.2.6.RELEASE/spring-batch-infrastructure-2.2.6.RELEASE.pom
+2019-03-27 03:59:02,807 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/batch/spring-batch-infrastructure/2.2.6.RELEASE/spring-batch-infrastructure-2.2.6.RELEASE.pom
+2019-03-27 03:59:03,002 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/batch/spring-batch-core/2.2.6.RELEASE/spring-batch-core-2.2.6.RELEASE.jar
+2019-03-27 03:59:03,733 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/batch/spring-batch-core/2.2.6.RELEASE/spring-batch-core-2.2.6.RELEASE.jar
+2019-03-27 03:59:03,938 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/batch/spring-batch-infrastructure/2.2.6.RELEASE/spring-batch-infrastructure-2.2.6.RELEASE.jar
+2019-03-27 03:59:04,460 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/batch/spring-batch-infrastructure/2.2.6.RELEASE/spring-batch-infrastructure-2.2.6.RELEASE.jar
+2019-03-27 03:59:05,093 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:59:05,094 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 03:59:05,096 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:59:05,098 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 03:59:05,435 [Worker-44] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-27 03:59:05,435 [Worker-44] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-03-27 03:59:06,605 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:59:06,606 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 03:59:06,620 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:59:06,621 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 03:59:08,107 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:59:08,108 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 03:59:08,113 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:59:08,114 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 03:59:15,263 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-27 03:59:15,264 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-27 03:59:19,751 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:59:19,752 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 03:59:19,753 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 03:59:19,754 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 04:02:42,000 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 04:02:42,000 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 04:02:42,002 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 04:02:42,003 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 04:15:31,693 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 04:15:31,694 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 04:15:31,696 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 04:15:31,696 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 05:20:42,945 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:20:42,946 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 05:20:42,947 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:20:42,948 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 05:20:44,574 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:20:44,575 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 05:20:44,580 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:20:44,581 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 05:20:53,312 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-27 05:20:53,312 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-03-27 05:20:55,649 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:20:55,650 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 05:20:55,654 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:20:55,654 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 05:21:03,394 [Worker-68] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-27 05:21:03,394 [Worker-68] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-27 05:21:07,289 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:21:07,290 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 05:21:07,292 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:21:07,292 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 05:22:04,060 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:22:04,061 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 05:22:04,062 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:22:04,062 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 05:22:25,656 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:22:25,657 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 05:22:25,659 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:22:25,659 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 05:22:50,769 [Worker-66] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-27 05:22:50,770 [Worker-66] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-03-27 05:22:53,182 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:22:53,182 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 05:22:53,185 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:22:53,186 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 05:25:23,320 [Worker-65] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-27 05:25:23,320 [Worker-65] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-27 05:25:27,890 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:25:27,891 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 05:25:27,893 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:25:27,893 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 05:30:30,616 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:30:30,617 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 05:30:30,619 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:30:30,619 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 05:31:38,813 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:31:38,814 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 05:31:38,817 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:31:38,818 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 05:32:01,326 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:32:01,327 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 05:32:01,330 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:32:01,330 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 05:32:06,881 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:32:06,882 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 05:32:06,884 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:32:06,884 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 05:33:35,272 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:33:35,272 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 05:33:35,273 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:33:35,274 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 06:21:11,883 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:21:11,884 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 06:21:11,885 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:21:11,886 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 06:21:45,868 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:21:45,870 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 06:21:45,872 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:21:45,874 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 06:22:19,125 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:22:19,125 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 06:22:19,127 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:22:19,128 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 06:23:08,838 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:23:08,839 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 06:23:08,841 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:23:08,841 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 06:32:22,571 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:32:22,572 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 06:32:22,573 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:32:22,574 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 06:33:22,043 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:33:22,044 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 06:33:22,049 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:33:22,049 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 06:35:32,469 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:35:32,470 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 06:35:32,471 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:35:32,472 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 06:43:34,649 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:43:34,650 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 06:43:34,652 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:43:34,652 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 06:43:51,169 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:43:51,173 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 06:43:51,175 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:43:51,175 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 06:50:39,407 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:50:39,408 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 06:50:39,410 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:50:39,410 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 06:50:48,382 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:50:48,383 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 06:50:48,385 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:50:48,386 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 06:51:48,035 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:51:48,037 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 06:51:48,039 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:51:48,040 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 06:51:53,501 [Worker-101] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-27 06:51:53,502 [Worker-101] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-03-27 06:51:55,900 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:51:55,901 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 06:51:55,902 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:51:55,903 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 06:51:59,233 [Worker-101] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-27 06:51:59,233 [Worker-101] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-27 06:52:04,055 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:52:04,056 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 06:52:04,058 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:52:04,058 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 06:53:08,563 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:53:08,564 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 06:53:08,565 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:53:08,565 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 06:55:22,838 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:55:22,839 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 06:55:22,840 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:55:22,841 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 06:56:38,971 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:56:38,972 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 06:56:38,973 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 06:56:38,973 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 07:00:06,368 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 07:00:06,369 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 07:00:06,372 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 07:00:06,374 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 07:00:19,370 [Worker-109] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-27 07:00:19,370 [Worker-109] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-03-27 07:00:21,985 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 07:00:21,986 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 07:00:21,990 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 07:00:21,991 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 07:00:25,429 [Worker-100] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-27 07:00:25,430 [Worker-100] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-27 07:00:30,791 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 07:00:30,792 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 07:00:30,794 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 07:00:30,794 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 07:07:47,704 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 07:07:47,705 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 07:07:47,713 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 07:07:47,714 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 07:09:27,332 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 07:09:27,333 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 07:09:27,335 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 07:09:27,339 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 07:09:28,353 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 07:09:28,354 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 07:09:28,355 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 07:09:28,366 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 07:09:53,542 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 07:09:53,547 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2019-03-27 07:09:53,548 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 07:09:53,550 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 07:10:06,578 [Worker-104] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-27 07:10:06,578 [Worker-104] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-03-27 07:10:09,438 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 07:10:09,448 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2019-03-27 07:10:09,452 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 07:10:09,453 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
+2019-03-27 07:10:14,529 [Worker-110] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/carlos/workspace/PruebaGSS/PruebaGSS
+2019-03-27 07:10:14,530 [Worker-110] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-27 07:10:20,647 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 07:10:20,648 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2019-03-27 07:10:20,650 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 07:10:20,650 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/carlos/workspace/PruebaGSS/PruebaGSS/src/test/resources
